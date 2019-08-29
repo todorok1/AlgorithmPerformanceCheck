@@ -19,7 +19,9 @@ https://ekulabo.com/algorithm-performance
 
 ## 配列格納用のScriptableObjectについて
 [Assets/Create/Algorithm/Array Generator]からArray Generatorを作成できます。  
-このArray Generatorでは任意の長さの配列を作成できます。  
+<br>
+このArray Generatorでは任意の長さの配列を持ったArrayHolderのデータを作成できるので、お好きな長さの配列を作成してください。
+<br>
 配列生成のスクリプトについてはAlgorithm/EditorにあるArrayGeneratorEditorをご覧ください。 
 <br>
 <br>
